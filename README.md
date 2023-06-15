@@ -5,7 +5,7 @@
 This package requires fresnel library.
 Install fresnel via conda:
 
-`conda install -c	conda-forge fresnel`
+`conda install -c conda-forge fresnel`
 
 Clone the repo and install the package:
 
