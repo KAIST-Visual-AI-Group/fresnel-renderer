@@ -10,9 +10,7 @@ Install fresnel via conda:
 Clone the repo and install the package:
 
 ```
-git clone https://github.com/TODO
-cd fresnel-renderer
-pip install -e .
+pip install git+https://github.com/TODO](https://github.com/KAIST-Geometric-AI-Group/fresnel-renderer.git
 ```
 
 You can refer to demo rendering code in a `demo` directory. It will render a point cloud and a mesh and save them as `.png`s.
